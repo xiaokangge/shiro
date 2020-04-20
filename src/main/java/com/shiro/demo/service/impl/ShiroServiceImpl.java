@@ -1,7 +1,9 @@
 package com.shiro.demo.service.impl;
 
-import com.shiro.demo.service.ShiroService;
+import org.springframework.stereotype.Service;
 
+import com.shiro.demo.service.ShiroService;
+@Service
 public class ShiroServiceImpl implements ShiroService {
 
 }
